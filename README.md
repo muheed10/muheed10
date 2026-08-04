@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Abdul Muheed</h1>
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
